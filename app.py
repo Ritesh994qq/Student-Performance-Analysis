@@ -1,4 +1,3 @@
-
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -37,10 +36,41 @@ st.markdown("""
     max-width: 1600px;
 }
 
+
 /* Sidebar */
 [data-testid="stSidebar"] {
     background: linear-gradient(180deg, #071b42 0%, #102f68 100%);
+    min-width: 300px;
+    width: 300px;
 }
+
+}
+
+[data-testid="stSidebar"] > div:first-child {
+    width: 300px;
+}
+
+[data-testid="stSidebar"] .block-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+.sidebar-brand {
+    font-size: 1.15rem;
+    font-weight: 800;
+    line-height: 1.5;
+    padding: 12px 0 22px 0;
+    color: #ffffff;
+    width: 100%;
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: break-word;
+    word-break: normal;
+    box-sizing: border-box;
+}
+
+
 
 [data-testid="stSidebar"] * {
     color: #ffffff !important;
