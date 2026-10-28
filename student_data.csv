@@ -1,0 +1,21 @@
+Student_ID,Student_Name,Class,Maths,Science,English,Attendance_Percent,Study_Hours_Per_Day
+S001,Aarav Sharma,MCA-1,85,88,79,92,3.5
+S002,Ananya Singh,MCA-1,92,90,94,96,4.0
+S003,Rohan Kumar,MCA-1,66,72,69,78,2.0
+S004,Priya Verma,MCA-1,74,81,77,88,2.8
+S005,Aditya Gupta,MCA-1,39,45,42,62,1.0
+S006,Ishita Roy,MCA-1,88,84,91,95,3.8
+S007,Rahul Das,MCA-1,57,61,55,73,1.8
+S008,Sneha Patel,MCA-1,79,76,83,90,3.0
+S009,Vikram Yadav,MCA-1,48,52,46,68,1.5
+S010,Meera Joshi,MCA-1,95,93,89,98,4.5
+S011,Kabir Ali,MCA-2,71,68,74,82,2.5
+S012,Diya Mishra,MCA-2,83,87,80,91,3.2
+S013,Arjun Mehta,MCA-2,62,59,65,75,2.0
+S014,Kavya Nair,MCA-2,90,92,88,97,4.2
+S015,Manav Jain,MCA-2,34,38,41,55,0.8
+S016,Sana Khan,MCA-2,76,73,82,86,2.7
+S017,Dev Thakur,MCA-2,54,58,51,70,1.6
+S018,Tanya Bose,MCA-2,87,85,90,93,3.7
+S019,Yash Sinha,MCA-2,68,64,70,79,2.1
+S020,Nisha Paul,MCA-2,81,79,84,89,3.1
